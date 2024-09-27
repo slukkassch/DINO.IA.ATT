@@ -1,0 +1,83 @@
+@import url(reset.css);
+
+body{
+    background-color: black;
+}
+
+header{
+    display: flex;
+    background-color: #bf00ff;
+    border-bottom: 2px solid #f3cdef;
+}
+
+.cabecalho{
+
+}
+
+.img_config{
+    width: 5%;
+    height: 5%;
+    margin: 0 0 0 2%;
+}
+
+.img_login{
+    width: 5%;
+    height: 5%;
+    margin: 0 0 0 70%;
+}
+
+.titulo{
+    font-size: 50px;
+    margin: 1% 0 0 1%;
+    
+
+}
+
+.hamburguer{
+    width: 4%;
+    height: 2%;
+}
+
+.img_menuadd{
+    width: 4%;
+    height: 2%;
+}
+
+.chat{
+    margin: 0 0 0 2%;
+    padding: 10px;
+    color: white;
+    border: 2px solid #800080;
+    border-radius: 20%;
+    margin: 2% 93% 0 1%;
+    
+}
+
+.Digite{
+    border: 1px solid #800080 ;
+    border-radius: 10%;
+    padding: 20px;
+    width: 30em;
+    background-color: #f3cdef;
+}
+
+.input-area{
+    margin: 1% 0 0% 30%;
+}
+
+footer{
+    border-top: 2px solid #f3cdef;
+}
+
+.dino{
+    width: 20%;
+    height: 20%;
+    margin: 0 0 0 20%;
+}
+
+.botao{
+    padding: 20px;
+    background-color: #f3cdef;
+    border-radius: 10%;
+}
+
